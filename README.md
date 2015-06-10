@@ -1,6 +1,5 @@
 #Control the Sphero ball using the Neurosky headset using Cylon.js
 
-![cylonjs](https://charliegerard.files.wordpress.com/2015/01/cylonjs-sphero.png)
 
 ##Setup
 
