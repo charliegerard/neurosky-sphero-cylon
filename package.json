@@ -1,0 +1,24 @@
+{
+  "name": "neurosky-sphero-cylon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "cylon": "^1.3.0",
+    "cylon-neurosky": "^0.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charliegerard/neurosky-sphero-cylon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/charliegerard/neurosky-sphero-cylon/issues"
+  },
+  "homepage": "https://github.com/charliegerard/neurosky-sphero-cylon#readme"
+}
